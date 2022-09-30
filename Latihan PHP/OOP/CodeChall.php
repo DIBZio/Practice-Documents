@@ -87,4 +87,4 @@ $alamatKantor = new Alamat("02", "01", "Condong Catur", "Depok" , "Sleman" , "D.
 
 $nasabahBinsar = new Nasabah("Binsar Dwi Jasuma", "123124532", $alamatRumah, null, "0898937498", 9000000000);
 $nasabahBinsar->print();
-
+?>
