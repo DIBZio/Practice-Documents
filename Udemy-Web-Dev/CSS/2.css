@@ -1,0 +1,28 @@
+/*YOUR CODE GOES IN HERE*/
+html * {
+  text-transform: uppercase;
+}
+h1 {
+  font-family: monospace;
+  text-align: center;
+  font-weight: 100;
+  font-size: 40px;
+  letter-spacing: 20px;
+  text-decoration-line: underline;
+  text-decoration-color: plum;
+  text-decoration-style: wavy;
+}
+/* Make all LI's blue */
+li {
+  color: blue;
+}
+.done {
+  color: grey;
+}
+#clear {
+  background-color: red;
+  color: white;
+}
+/* Make everything with the class of 'done' grey*/
+
+/* Make the element with the id of 'clear' have a red BG and white text */
